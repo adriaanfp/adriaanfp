@@ -1,30 +1,38 @@
-# 👋 ¡Hola! Soy Adrián Flores Párraga
+👋 Hi! I'm Adrián Flores Párraga
+🎓 Currently a programming student at 42 Madrid, a school without classes or teachers, where learning is based on practice, effort, and teamwork.
 
-🎓 Actualmente estudiante de programación en **42 Madrid**, una escuela sin clases ni profesores, donde el aprendizaje se basa en la práctica, el esfuerzo y el trabajo en equipo.
+💡 I’m passionate about solving problems, learning new things, and building projects that challenge me. Although I’m still in training, every line of code is a step toward the developer I want to become.
 
-💡 Me apasiona **resolver problemas**, **aprender cosas nuevas** y construir proyectos que me reten. Aunque aún estoy en formación, cada línea de código es un paso hacia el desarrollador que quiero ser.
+🔧 Technologies I’m using and learning:
+🐍 Python
+🖥️ C / Shell scripting (42 core projects)
+💻 Git & GitHub
+🚀 Growing interest in web development and systems
 
-🔧 **Tecnologías que estoy usando y aprendiendo**:
-- 🐍 Python
-- 🖥️ C / Shell scripting (proyectos base de 42)
-- 💻 Git & GitHub
-- 🚀 Interés creciente en desarrollo web y sistemas
+✨ Some values that define me:
 
-✨ **Algunos valores que me definen**:
-- Curiosidad infinita
-- Mentalidad de crecimiento
-- Colaboración y empatía
-- Ganas constantes de mejorar
+Infinite curiosity
 
----
+Growth mindset
 
-### 📌 Mis objetivos actuales:
-- 🔨 Terminar los proyectos del core de 42
-- 🚀 Interés creciente en ciberseguridad y sistemas
-- 🌐 Empezar a trabajar con tecnologías web
-- 💼 Prepararme para el mundo profesional
+Collaboration and empathy
 
----
+Constant drive to improve
+
+📌 My current goals:
+🔨 Complete the core projects at 42
+🚀 Explore cybersecurity and systems in more depth
+🌐 Start working with web technologies
+💼 Prepare for the professional world
+
+🚀 What’s next?
+I’m open to collaborations, exciting challenges, or simply connecting with other developers. Let’s build awesome things together!
+
+📫 Contact: adrianube29@gmail.com
+
+🌐 LinkedIn / Portfolio: www.linkedin.com/in/adrian-flores-parraga-74b1472ba
+
+“Learning to program is learning to think.” — Steve Jobs
 
 ### 🚀 ¿Qué sigue?
 Estoy abierto/a a colaboraciones, retos interesantes o simplemente conectar con otros desarrolladores. ¡Construyamos cosas geniales juntos!
