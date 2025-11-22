@@ -24,7 +24,6 @@ My goal is to combine the robustness of systems engineering with the speed and c
 I believe in the intersection of human logic and machine efficiency.
 * **Flow State:** Using AI as a copilot to prototype faster and iterate instantly.
 * **Builder Mindset:** If a task is repetitive, I script it. If a problem is complex, I break it down.
-*
 ---
 
 ## 📫 Contact
